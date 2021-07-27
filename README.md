@@ -1,4 +1,4 @@
-# projeto-consulta-clima
+# Consulta Clima
 Projeto da B7Web. Manipulação e requisição de api, e manipulação de objetos de tela. Consultando clima de uma Cidade/Estado ao redor do Mundo.
 
 Página online: https://brennomc.github.io/projeto-consulta-clima
